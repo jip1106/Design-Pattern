@@ -1,8 +1,4 @@
-package org.builder;
-
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
+package org.builder.q1;
 
 public class Main {
     public static void main(String[] args) {
